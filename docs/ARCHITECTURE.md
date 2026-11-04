@@ -5,6 +5,8 @@ Version: 0.1-reconstruction
 ## 1. Goals
 Friday is a local-first AI assistant with web, mobile and API surfaces. The build order is mandatory. Trust controls are enforced at server/tool boundaries, not merely in UI.
 
+**Mandatory milestone gate:** M1 Trust layer must be completed in full before M2 begins. M1 must never be skipped, compressed, stubbed or deferred. The M1 exit criteria and Boss acceptance gate in MASTER_PLAN.md §4 govern progression.
+
 ## 2. Repository shape
 The handoff establishes this high-level layout:
 /
